@@ -33,7 +33,7 @@
     "url": "https://github.com/ldn0x7dc/react-native-transformable-image/issues"
   },
   "dependencies": {
-    "react-native-view-transformer": "0.0.28"
+    "react-native-view-transformer": "git+https://github.com/aerionTech/react-native-view-transformer.git#master"
   },
   "description": "A pure JavaScript written transformable image component, like PhotoView or ImageViewer, supports gestures like pan, pinch, double tab and fling, works with both iOS and Android.",
   "homepage": "https://github.com/ldn0x7dc/react-native-transformable-image#readme",
